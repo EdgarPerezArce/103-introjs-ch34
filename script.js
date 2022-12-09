@@ -28,3 +28,4 @@ let jobTitle = "Commercial Manager";
 // console.log("you will be a" + jobTitle + "in" + geoLocation + "and married" + partnersName + "with" + numberChildren + "kids");
 
 document.write(`<p>you will be a ${jobTitle} in ${geoLocation},  and married ${partnersName} with ${numberChildren} + kids</p>`);
+
